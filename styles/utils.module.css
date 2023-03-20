@@ -1,9 +1,10 @@
 .heading2XL {
-  font-size: 2.5rem;
+  font-size: 2.25rem;
   line-height: 0;
-  font-weight: 800;
+  font-weight: 400;
   letter-spacing: -0.05rem;
   margin: 1rem 0;
+  text-transform: uppercase;
 }
 
 .headingXL {
@@ -21,8 +22,8 @@
 }
 
 .headingLg {
-  font-size: 1rem;
-  margin: 0 0 1rem 0;
+  font-size: 1.2rem;
+  font-weight: 400;
 }
 
 .headingMd {

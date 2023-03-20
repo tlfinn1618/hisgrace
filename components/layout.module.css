@@ -1,8 +1,9 @@
 .container {
-  max-width: 36rem;
   padding: 0 1rem;
-  margin: 3rem auto 6rem;
-  border: 1px solid black;
+  margin: 1rem auto 2rem;
+  border: 0px solid black;
+  border-radius: 15px;
+  background-color: white;
 }
 
 .header {

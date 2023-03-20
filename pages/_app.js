@@ -7,4 +7,3 @@ const dakotaFont = localFont({ src: "../public/fonts/Dakota_Regular.ttf" });
 export default function App({ Component, pageProps }) {
   return <Component {...pageProps} />;
 }
-``;

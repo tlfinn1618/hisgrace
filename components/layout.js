@@ -58,8 +58,8 @@ export default function Layout({ children, home }) {
                 priority
                 src="/images/graceLogo.png"
                 className={utilStyles.borderCircle}
-                height={108}
-                width={108}
+                height={75}
+                width={75}
                 alt=""
               />
             </Link>
