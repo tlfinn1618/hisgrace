@@ -12,7 +12,7 @@
   line-height: 1.3;
   font-weight: 800;
   letter-spacing: -0.05rem;
-  margin: 1rem 0;
+  /* margin: 1rem 0; */
 }
 
 .headingScript {
@@ -24,6 +24,7 @@
 .headingLg {
   font-size: 1.2rem;
   font-weight: 400;
+  margin: 0 0;
 }
 
 .headingMd {
